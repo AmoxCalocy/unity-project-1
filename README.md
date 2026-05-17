@@ -29,7 +29,4 @@
 - `GameControlScript.cs`：挂载在 `GameControl` 对象上，管理游戏的整体逻辑和 UI 显示。
 
 ## 如何运行
-1. 在 Unity Editor 中打开项目。
-2. 打开 `Assets/Scenes/Main.unity` 场景。
-3. 点击 **Play** 按钮开始游戏。
-4. 使用键盘和鼠标控制 `FPSController` 进行移动。
+双击re1.exe以运行游戏。
