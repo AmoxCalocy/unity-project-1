@@ -1,4 +1,4 @@
-# Amazing Racer - 虚拟现实开发引擎 实验 1
+# Amazing Racer
 
 ## 项目简介
 本项目是基于 Unity 引擎开发的第一个简单 3D 游戏——**Amazing Racer**。
