@@ -28,5 +28,5 @@
 - `FinishScript.cs`：挂载在 `Finish` 对象上，检测玩家是否到达终点。
 - `GameControlScript.cs`：挂载在 `GameControl` 对象上，管理游戏的整体逻辑和 UI 显示。
 
-## 如何运行
+## 运行方法
 双击re1.exe以运行游戏。
